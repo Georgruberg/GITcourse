@@ -1,1 +1,2 @@
 Change in file.
+This is also a change.
