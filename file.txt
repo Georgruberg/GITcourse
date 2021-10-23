@@ -1,4 +1,1 @@
-Change in file.
-This is also a change.
-This is a third change.
-
+Alex has a cat.
